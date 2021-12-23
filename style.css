@@ -1,0 +1,33 @@
+body {
+    background: url("img/bg.jpg");
+    font-family: 'Oswald', sans-serif;
+}
+.col-sm-6 {
+    background-color: white;
+}
+.titleheader {
+    height: 80px;
+    background-color: #121826;
+    color: white;
+    font-size: 36px;
+    border-radius: 5px 5px 0 0;
+    text-align: center;
+    padding-top: 12px;
+}
+hr {
+    color: #121826;
+}
+.footerheader {
+    height: 80px;
+    background-color: #121826;
+    color: white;
+    font-size: 16px;
+    border-radius: 0 0 5px 5px;
+    text-align: center;
+    
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
